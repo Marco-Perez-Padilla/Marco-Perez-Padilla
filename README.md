@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marco-Perez-Padilla)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marco-Perez-Padilla&show_icons=true&theme=dark)]
 <!--
 **Marco-Perez-Padilla/Marco-Perez-Padilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
